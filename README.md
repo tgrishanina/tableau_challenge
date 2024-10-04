@@ -1,6 +1,8 @@
 # tableau_challenge
 ## Key Observations: CitiBike Story
 
+[View The Public Workbook Here](https://public.tableau.com/app/profile/tatyana.grishanina/viz/Challenge18_17279022608310/Story1?publish=yes)
+
 # Dashboard 1:
 1. Bikes were most frequently used in Jersey City and Hoboken, with lower usage east of the Hudson River despite the area's large population.
 
